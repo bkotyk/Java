@@ -29,7 +29,8 @@ public class HelloWorld {
         System.out.println("The sum of my numbers is: " + (number + number1));
         System.out.println("Ion just made a changes");
         System.out.println("Ion just made a change");
-        System.out.println("nothing");
+        System.out.println("Git Practice");
+        System.out.println("Git Practice");
 
 
 
